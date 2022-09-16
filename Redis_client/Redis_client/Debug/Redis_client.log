@@ -1,0 +1,3 @@
+﻿  Client.cpp
+D:\笔记\C++项目\Skiplist_server_client\Redis_client\Redis_client\Client.cpp(26,9): warning C4101: “ret”: 未引用的局部变量
+  Redis_client.vcxproj -> D:\笔记\C++项目\Skiplist_server_client\Redis_client\Debug\Redis_client.exe
