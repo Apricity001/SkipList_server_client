@@ -1,0 +1,8 @@
+﻿  Server.cpp
+D:\笔记\C++项目\Skiplist_server_client\Redis_server\Redis_server\Server.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\笔记\C++项目\Skiplist_server_client\Redis_server\Redis_server\Server.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\笔记\C++项目\Skiplist_server_client\Redis_server\Redis_server\Skiplist.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\笔记\C++项目\Skiplist_server_client\Redis_server\Redis_server\Node.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\笔记\C++项目\Skiplist_server_client\Redis_server\Redis_server\Server.cpp(270,8): warning C4101: “dwThreadId”: 未引用的局部变量
+D:\笔记\C++项目\Skiplist_server_client\Redis_server\Redis_server\Server.cpp(268,10): warning C4101: “client”: 未引用的局部变量
+  Redis_server.vcxproj -> D:\笔记\C++项目\Skiplist_server_client\Redis_server\Debug\Redis_server.exe

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Misc">
+      <UniqueIdentifier>{f2ebca14-8a52-4b6b-b00d-f05c4fa8f925}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Skiplist">
+      <UniqueIdentifier>{08c1579a-6113-4a8c-ae95-b73df99a6abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Network">
+      <UniqueIdentifier>{fc17620d-6284-412c-be4f-f1d18db516b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Thread">
+      <UniqueIdentifier>{f3ca1e25-b795-4679-a3d7-de52c36c13de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Server.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>头文件\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>头文件\Skiplist</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>头文件\Skiplist</Filter>
+    </ClInclude>
+    <ClInclude Include="Skiplist.h">
+      <Filter>头文件\Skiplist</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Server.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
